@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Móveis Customizados é um projeto que tem como finalidade o desenvolvimento inicial de HTML e CSS.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://luizfernandocsilva.github.io/MoveisCustomizados---EXPLORER/)
 
 ## 🔖 Layout
 
