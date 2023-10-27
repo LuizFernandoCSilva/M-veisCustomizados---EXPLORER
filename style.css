@@ -1,57 +1,71 @@
-body {
-  font-family: 'Open Sans', sans-serif;
-
-  text-align: center; /*alinha os elementos da div ao centro da página*/
-  margin: 0;
+body{
+  font-family: 'Open sans', sans-serif;  
 }
-
-#hero {
+#hero{
   width: 592px;
-  margin: 0 auto 72px; /*centraliza a div na página*/
+  text-align: left;
+   margin: 45px 0 0 70px;
+
 }
-
-#hero img {
-  margin-bottom: 72px;
-}
-
-h1 {
-  font-family: 'Inter', sans-serif;
-  font-size: 49px;
-  line-height: 56px;
-  font-weight: normal;
-  margin-bottom: 32px;
-}
-
-h1 span {
-  font-weight: bold;
-}
-
-span, a {
-  color: #FF9900;
-}
-
-p, #footer {
-  color: #7D7987;
-
-  font-size: 14px;
-  line-height: 28px;
-}
-
-
-#footer a + a{
-  margin-left: 28px;
-}
-
-.line {
+#line{
   width: 568px;
   height: 0px;
-
-  margin: 0 auto 8px;
-
+  margin: 0 0 10px 0;
   border: 1px solid #ECEFF2;
 }
-#balls{
-  position: fixed;
-  bottom: 0px;
+
+h1{
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  line-height: 56px;
+  font-weight: normal;
+}
+h1 span{
+  font-weight: bold;
+}
+#hero p{
+  color: #7d7987;
+  line-height: 20px;
+}
+#p1{
+  text-align: center;
+  margin-left: 2px;
+}
+span, a{
+  color: #FF9900;
+}
+#footer p{
+  color: black;  
+}
+#footer{
+  font-size: 14px;
+  line-height: 28px;
+  width: 592px;
+  position: absolute;
   right: 0px;
+  bottom: 0px;/*alinha a div ao final da pagina */
+  text-align: right; /*alinha os itens da div a direita */
+  
+}
+
+#footer a+a{
+  margin-left: 28px;
+}
+#footer img{
+  width: 200px;
+  height: auto;
+  margin-bottom: 40px;
+  margin-right: 20px;
+}
+#footer a,p{
+  font-size: 10px;
+}
+
+
+
+#balls {
+  width: 90px;
+  position: fixed;
+  top: 12%;
+  right: 7%;
 }
