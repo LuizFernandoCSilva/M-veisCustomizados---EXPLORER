@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Projeto Móveis Customizados </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Movéis Customizados" src="./imagens/image 1.jpg" width="100%">
+  <img alt="projeto Movéis Customizados" src="./imagens/moveiscustomizados.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
